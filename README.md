@@ -1,2 +1,2 @@
-# FinSmart-
+# FinSmart
 FinSmart 
